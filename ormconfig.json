@@ -1,5 +1,5 @@
 {
-  "type": "mysql",
+  "type": "postgres",
   "host": "dpg-cudn0md2ng1s73ejp9j0-a",
   "port": 5432,
   "username": "root",

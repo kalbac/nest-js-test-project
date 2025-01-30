@@ -3,7 +3,7 @@
   "host": "localhost",
   "port": 5432,
   "username": "root",
-  "password": "",
+  "password": "ljb1utq4L17fq7g4pYk05IJE2Cx624sq",
   "database": "nest_js_base",
   "entities": ["dist/**/*.entity{.ts,.js}"],
   "synchronize": true
